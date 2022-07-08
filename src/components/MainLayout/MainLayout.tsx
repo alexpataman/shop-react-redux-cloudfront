@@ -13,7 +13,7 @@ function Copyright() {
         GorillaFruit Store
       </Link>{' '}
       {new Date().getFullYear()}
-      {'.'} | v2.0.3
+      {'.'} | v2.0.4
     </Typography>
   );
 }
