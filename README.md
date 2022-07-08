@@ -1,3 +1,17 @@
+### 1. What was done during the task
+- S3 bucket has been created and configured
+- In addition to the previous work a CloudFront distribution is created and configured properly and the site is served now with CloudFront and is available through the Internet over CloudFront URL
+- Serverless-finch and serverless-single-page-app plugins are added and configured. The app can be built and deployed by running npm script command
+
+### 2. Links
+CloudFront URL:
+https://d24ck4txehvehc.cloudfront.net/
+
+S3-website (according to the task shows 403 Access Denied error, due to policies):
+http://gorilla-fruit.s3-website-eu-west-1.amazonaws.com/
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
